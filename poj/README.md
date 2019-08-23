@@ -11,7 +11,7 @@
 * POJ1503大整数加法
 * POJ1573
 * POJ1837
-* POJ1850组合（非常重要）
+* [POJ1850](https://github.com/yuzhuowen/codingpractice/blob/master/poj/poj1850.cpp) 组合（非常重要）
 * POJ1854
 * POJ1905二分法&&double
 * POJ1936
